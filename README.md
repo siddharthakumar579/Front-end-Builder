@@ -2,7 +2,7 @@
 
 Turn ideas into fully functional web apps instantly using AI.
 
-AI App Builder takes a simple text prompt and generates a complete **HTML, CSS, and JavaScript application**, along with a live preview and feature specifications — all in one place. 
+AI App Builder takes a simple text prompt and generates a complete **HTML, CSS, and JavaScript application**, along with a live preview and feature specifications — all in one place.
 
 ---
 
