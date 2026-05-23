@@ -12,7 +12,7 @@ AI App Builder takes a simple text prompt and generates a complete **HTML, CSS, 
   Describe your idea and get a working web app instantly.
 
 * 📄 **Auto-generated Code**
-  Complete HTML file with embedded CSS & JavaScript
+  Complete HTML file with embedded CSS & JavaScript.
 
 * 📋 **Specs Section**
   Clear explanation of app features and functionality
